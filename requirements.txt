@@ -1,0 +1,15 @@
+streamlit>=1.38
+streamlit-folium>=0.23
+folium>=0.17
+langgraph>=0.2
+langchain-core>=0.3
+sentinelhub>=3.10
+numpy>=1.26
+opencv-python-headless>=4.10
+torch>=2.3
+Pillow>=10.4
+google-generativeai>=0.8
+requests>=2.32
+python-dotenv>=1.0
+shapely>=2.0
+pytest>=8.3

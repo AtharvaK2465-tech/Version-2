@@ -1,0 +1,24 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python environments, caches, and test output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated data and trained models (keep folder placeholders if added later)
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
